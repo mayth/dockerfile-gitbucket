@@ -1,7 +1,7 @@
 GitBucket Dockerfile
 ====================
 
-Dockerfile for GitBucket
+Dockerfile for GitBucket with some flavor :)
 
 [![](https://badge.imagelayers.io/mayth/gitbucket:latest.svg)](https://imagelayers.io/?images=mayth/gitbucket:latest 'Get your own badge on imagelayers.io')
 
