@@ -1,6 +1,6 @@
 FROM tomcat:8-jre8
 
-MAINTAINER mayth <chimeaquas [at] hotmail.com>
+LABEL maintainer="Mei Akizuru <chimeaquas@hotmail.com>"
 
 # commits graph plugin requires git
 RUN apt-get update && \
