@@ -13,7 +13,7 @@ RUN mkdir /var/gitbucket
 RUN mkdir /var/gitbucket/plugins
 
 RUN rm -rf /usr/local/tomcat/webapps/*
-ADD https://github.com/gitbucket/gitbucket/releases/download/4.24.0/gitbucket.war /usr/local/tomcat/webapps/ROOT.war
+ADD https://github.com/gitbucket/gitbucket/releases/download/4.24.1/gitbucket.war /usr/local/tomcat/webapps/ROOT.war
 
 VOLUME /var/gitbucket
 
